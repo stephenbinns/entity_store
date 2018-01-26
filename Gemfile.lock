@@ -7,7 +7,7 @@ PATH
       mongo (~> 1.8)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     bson (1.10.1)
     celluloid (0.15.2)
